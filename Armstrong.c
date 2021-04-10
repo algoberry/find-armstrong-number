@@ -1,4 +1,4 @@
-#include <stdio.h>
+1#include <stdio.h>
 int main() {
 	int number, temp, count = 0, total = 0;
 	printf("Enter the integer number: ");
